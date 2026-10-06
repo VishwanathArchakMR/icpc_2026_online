@@ -1,0 +1,20 @@
+# Build artifacts and binaries
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.dylib
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.swp
+*~
